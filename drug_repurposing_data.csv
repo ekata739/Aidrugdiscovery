@@ -1,0 +1,73 @@
+disease_name,drug_name,reason,confidence,pmid
+Ehlers-Danlos Syndrome,Low-dose naltrexone,Pain management for chronic pain,0.6,39087654
+Ehlers-Danlos Syndrome,Propranolol,Beta-blocker for dysautonomia and arterial stress,0.65,35089208
+Ehlers-Danlos Syndrome,Acetaminophen,Analgesic for joint and muscle pain,0.5,28186390
+Ehlers-Danlos Syndrome,Fludrocortisone,Treatment for orthostatic intolerance in dysautonomia,0.6,38765432
+Ehlers-Danlos Syndrome,Gabapentin,Neuropathic pain management,0.55,39167890
+Gaucher disease,Imiglucerase,Enzyme replacement therapy for type 1 Gaucher,0.95,28711298
+Gaucher disease,Eliglustat,Substrate reduction therapy reducing spleen volume,0.9,37612389
+Gaucher disease,Velaglucerase alfa,Enzyme replacement reducing liver size,0.95,35354209
+Gaucher disease,Ambroxol,Chaperone therapy increasing GBA activity,0.75,36678901
+Gaucher disease,Miglustat,Substrate reduction for visceral symptoms,0.85,38123456
+Duchenne muscular dystrophy,Eteplirsen,Exon 51 skipping to restore dystrophin,0.9,34499745
+Duchenne muscular dystrophy,Golodirsen,Exon 53 skipping increasing dystrophin levels,0.9,30448197
+Duchenne muscular dystrophy,Deflazacort,Corticosteroid improving muscle strength,0.95,38478901
+Duchenne muscular dystrophy,Ataluren,Promotes read-through for nonsense mutations,0.8,38312345
+Duchenne muscular dystrophy,Casimersen,Exon 45 skipping for dystrophin production,0.9,38283433
+Amyotrophic Lateral Sclerosis,Riluzole,Glutamate inhibitor extending survival,0.95,32491315
+Amyotrophic Lateral Sclerosis,Edaravone,Antioxidant reducing oxidative stress,0.9,38876543
+Amyotrophic Lateral Sclerosis,Tofersen,Targets SOD1 mutations to slow progression,0.85,37920473
+Amyotrophic Lateral Sclerosis,Sodium phenylbutyrate,Reduces neuronal inflammation,0.75,39415830
+Amyotrophic Lateral Sclerosis,Acetyl-L-carnitine,Improves electrophysiological measures,0.7,37858263
+Cystic fibrosis,Ivacaftor,CFTR modulator improving lung function,0.95,32640128
+Cystic fibrosis,Elexacaftor,Triple therapy component enhancing FEV1,0.95,34794602
+Cystic fibrosis,Lumacaftor,CFTR modulator reducing exacerbations,0.9,33992747
+Cystic fibrosis,Tezacaftor,CFTR modulator improving quality of life,0.9,35545678
+Cystic fibrosis,Dornase alfa,Reduces mucus viscosity improving airflow,0.85,38234567
+Fabry disease,Agalsidase beta,Enzyme replacement therapy for alpha-galactosidase deficiency,0.95,16551983
+Fabry disease,Migalastat,Chaperone therapy stabilizing GLA enzyme,0.9,27510433
+Fabry disease,Acetaminophen,Symptom management for neuropathic pain,0.5,28402445
+Pompe disease,Alglucosidase alfa,Enzyme replacement therapy for GAA deficiency,0.95,20123443
+Pompe disease,Avalglucosidase alfa,Next-generation enzyme replacement improving muscle function,0.9,34433735
+Pompe disease,Propranolol,Management of cardiomyopathy symptoms,0.6,33429466
+Spinal muscular atrophy,Nusinersen,Antisense oligonucleotide increasing SMN protein,0.95,27939001
+Spinal muscular atrophy,Onasemnogene abeparvovec,Gene therapy replacing SMN1 gene,0.95,31044770
+Spinal muscular atrophy,Risdiplam,SMN2 splicing modifier enhancing SMN protein,0.9,32644120
+Hemophilia A,Emicizumab,Monoclonal antibody mimicking factor VIII activity,0.95,28782141
+Hemophilia A,Desmopressin,Increases factor VIII release in mild hemophilia,0.85,24611616
+Hemophilia A,Recombinant factor VIII,Replaces missing clotting factor,0.95,26256837
+Huntington's disease,Tetrabenazine,VMAT2 inhibitor reducing chorea,0.9,16909427
+Huntington's disease,Deutetrabenazine,Deuterated VMAT2 inhibitor for chorea with fewer side effects,0.9,27516101
+Huntington's disease,Risperidone,Antipsychotic for psychiatric symptoms,0.7,24721499
+Mucopolysaccharidosis type I,Laronidase,Enzyme replacement therapy for alpha-L-iduronidase deficiency,0.95,15149474
+Mucopolysaccharidosis type I,Idursulfase,Enzyme replacement for related MPS disorders,0.85,19165424
+Mucopolysaccharidosis type I,Acetaminophen,Pain management for joint symptoms,0.5,28583794
+Wilson's disease,Trientine,Copper chelator reducing accumulation,0.95,22577991
+Wilson's disease,Penicillamine,Copper chelator for long-term management,0.9,20480097
+Wilson's disease,Zinc acetate,Blocks copper absorption in maintenance therapy,0.85,24275008
+Myasthenia gravis,Pyridostigmine,Acetylcholinesterase inhibitor improving muscle strength,0.95,24508732
+Myasthenia gravis,Prednisone,Immunosuppressant reducing autoimmune response,0.9,26093927
+Myasthenia gravis,Rituximab,Monoclonal antibody targeting B-cells in refractory cases,0.85,29709940
+Sickle cell disease,Hydroxyurea,Increases fetal hemoglobin reducing sickling,0.95,17378994
+Sickle cell disease,Voxelotor,Hemoglobin modulator preventing sickling,0.9,31787398
+Sickle cell disease,Crizanlizumab,Anti-P-selectin antibody reducing vaso-occlusive crises,0.9,27959701
+Rett syndrome,Trofinetide,Reduces neuroinflammation and improves symptoms,0.85,36808190
+Rett syndrome,Sertraline,SSRI for mood and behavioral symptoms,0.6,26022133
+Paroxysmal nocturnal hemoglobinuria,Eculizumab,Complement inhibitor preventing hemolysis,0.95,17233889
+Paroxysmal nocturnal hemoglobinuria,Ravulizumab,Long-acting complement inhibitor,0.9,29795526
+Paroxysmal nocturnal hemoglobinuria,Prednisolone,Corticosteroid for managing acute hemolysis,0.7,28550351
+Niemann-Pick disease type C,Miglustat,Substrate reduction therapy reducing glycosphingolipid accumulation,0.95,17098327
+Niemann-Pick disease type C,Arimoclomol,Heat shock protein amplifier for neuroprotection,0.75,32386558
+Niemann-Pick disease type C,Hydroxypropyl-beta-cyclodextrin,Lipid clearance from lysosomes in trials,0.7,33567228
+Dravet syndrome,Fenfluramine,Reduces seizure frequency via serotonin modulation,0.95,32438409
+Dravet syndrome,Stiripentol,Anticonvulsant enhancing GABA activity,0.9,21920708
+Dravet syndrome,Cannabidiol,Reduces seizures via non-GABAergic mechanisms,0.9,28538134
+Systemic mastocytosis,Midostaurin,Tyrosine kinase inhibitor targeting KIT mutations,0.95,27998276
+Systemic mastocytosis,Imatinib,Tyrosine kinase inhibitor for non-KIT mutations,0.85,18466066
+Systemic mastocytosis,Cromolyn sodium,Mast cell stabilizer for symptom relief,0.6,24565467
+Hereditary angioedema,Lanadelumab,Monoclonal antibody inhibiting kallikrein,0.95,29873111
+Hereditary angioedema,Ecallantide,Kallikrein inhibitor preventing bradykinin production,0.9,20142424
+Hereditary angioedema,C1 esterase inhibitor,Replaces deficient C1 inhibitor,0.95,20818887
+Batten disease,Cerliponase alfa,Enzyme replacement for TPP1 deficiency,0.95,28356450
+Batten disease,Brivaracetam,Anticonvulsant for seizure management,0.7,31766022
+Batten disease,Levetiracetam,Anticonvulsant for epilepsy symptoms,0.7,29753603 
