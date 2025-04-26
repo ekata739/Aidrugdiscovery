@@ -96,3 +96,23 @@ Feel free to contribute to this project by:
 ## License
 
 This project is open source and available under the MIT License. 
+
+## Running the API
+
+To run the API, use the following command:
+```bash
+python api.py 
+```
+
+## Testing the API
+
+You can test the API using the following command:
+```bash
+curl -X POST "http://localhost:8000/search_diseases" \
+     -H "Content-Type: application/json" \
+     -d '{"query": "Duchenne"}'
+```
+
+To get all diseases:
+```bash
+curl "http://localhost:8000/all_diseases"
