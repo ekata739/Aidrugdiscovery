@@ -1,16 +1,20 @@
 {
-  "name": "drug-repurposing-frontend",
-  "version": "0.1.0",
+  "name": "ai-drug-discovery-frontend",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.11.3",
+    "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.15.10",
-    "@mui/material": "^5.15.10",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "^5.0.0-alpha.129",
+    "@mui/material": "^5.13.0",
+    "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
-    "recharts": "^2.12.0"
+    "chart.js": "^4.3.0",
+    "react-chartjs-2": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,4 +40,4 @@
       "last 1 safari version"
     ]
   }
-} 
+}

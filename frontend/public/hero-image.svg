@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="400" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Grid -->
+  <path d="M0 0h500v400H0z" fill="#f8fafc"/>
+  <path stroke="#e2e8f0" stroke-width="1" d="M50 0v400M150 0v400M250 0v400M350 0v400M450 0v400M0 50h500M0 150h500M0 250h500M0 350h500"/>
+  
+  <!-- DNA Helix -->
+  <path d="M200 50c50 25 50 75 0 100s-50 75 0 100s50 75 0 100" stroke="#2196f3" stroke-width="4" fill="none"/>
+  <path d="M300 50c-50 25-50 75 0 100s50 75 0 100s-50 75 0 100" stroke="#64b5f6" stroke-width="4" fill="none"/>
+  
+  <!-- Connection Lines -->
+  <g stroke="#90caf9" stroke-width="2">
+    <path d="M200 75h100M200 125h100M200 175h100M200 225h100M200 275h100M200 325h100"/>
+  </g>
+  
+  <!-- Molecules -->
+  <circle cx="200" cy="75" r="8" fill="#1976d2"/>
+  <circle cx="300" cy="75" r="8" fill="#1976d2"/>
+  <circle cx="200" cy="175" r="8" fill="#1976d2"/>
+  <circle cx="300" cy="175" r="8" fill="#1976d2"/>
+  <circle cx="200" cy="275" r="8" fill="#1976d2"/>
+  <circle cx="300" cy="275" r="8" fill="#1976d2"/>
+  
+  <!-- AI Elements -->
+  <g fill="#f50057">
+    <circle cx="150" cy="100" r="5"/>
+    <circle cx="350" cy="200" r="5"/>
+    <circle cx="150" cy="300" r="5"/>
+    <circle cx="350" cy="100" r="5"/>
+    <circle cx="150" cy="200" r="5"/>
+    <circle cx="350" cy="300" r="5"/>
+  </g>
+  
+  <!-- Connection Network -->
+  <g stroke="#f50057" stroke-width="1" opacity="0.5">
+    <path d="M150 100l200 100M150 300l200-100M150 200l200 100M150 100l200 200M350 100l-200 100M350 300l-200-100"/>
+  </g>
+</svg> 
